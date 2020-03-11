@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42fced4e-21e1-4f3d-b804-f7706f11296a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yq1oF6e0eh3COt6iFCGrVCoveb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.F0402">
+    <configuration name="F0301" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hu.elte.example.F0301" />
+      <module name="feladat_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hu.elte.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F0302" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hu.elte.example.F0302" />
+      <module name="feladat_03_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hu.elte.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F0303" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hu.elte.example.F0303" />
+      <module name="feladat_03_03" />
+      <option name="PROGRAM_PARAMETERS" value="7 5 6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hu.elte.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F0401" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hu.elte.example.F0401" />
+      <module name="feladat_04_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hu.elte.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F0402" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hu.elte.example.F0402" />
+      <module name="feladat_04_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hu.elte.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.F0301" />
+      <item itemvalue="Application.F0302" />
+      <item itemvalue="Application.F0303" />
+      <item itemvalue="Application.F0401" />
+      <item itemvalue="Application.F0402" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.F0402" />
+        <item itemvalue="Application.F0401" />
+        <item itemvalue="Application.F0303" />
+        <item itemvalue="Application.F0302" />
+        <item itemvalue="Application.F0301" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42fced4e-21e1-4f3d-b804-f7706f11296a" name="Default Changelist" comment="" />
+      <created>1583655483327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583655483327</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1583879311457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583879311457" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583963744138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583963744138" />
+    <state x="487" y="119" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1583880325572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="119" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1583880325572" />
+    <state x="288" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583658413652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="288" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1583658413652" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583963849911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583963849911" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583963849911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583963849911" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583963849911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583963849911" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583963849911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583963849911" />
+    <state x="237" y="0" width="1134" height="572" key="dock-window-1" timestamp="1583657988269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="237" y="0" width="1134" height="572" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1583657988269" />
+    <state x="499" y="175" key="extract.method.dialog" timestamp="1583880360599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="175" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1583880360599" />
+    <state x="473" y="46" width="713" height="732" key="find.popup" timestamp="1583880089757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="46" width="713" height="732" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1583880089757" />
+    <state x="209" y="78" key="new project wizard" timestamp="1583877378683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="78" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583877378683" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583656720228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583656720228" />
+  </component>
+</project>
