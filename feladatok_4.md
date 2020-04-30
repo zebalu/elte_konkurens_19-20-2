@@ -1,8 +1,11 @@
 # 1. Készíts saját 1 szálas threadpool-t
 
 A Threadpool-nak 1 szála van. Runnable-öket fogad és hajt futtat le.
+
 a) végtelen sok runnable-t kaphat
+
 b) a job-ok sora betellhet, ilyenkor dobjon exception-t ha új jobot kap
+
 
 # 2. Készíts saját több szálas threadpool-t
 
