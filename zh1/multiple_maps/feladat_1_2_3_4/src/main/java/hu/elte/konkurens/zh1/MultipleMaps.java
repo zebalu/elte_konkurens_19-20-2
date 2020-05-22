@@ -156,11 +156,23 @@ public class MultipleMaps<K, V> {
 	}
 	
 	private List<Lock> collectReadLocks(String... maps) {
-		return Arrays.stream(maps).map(name -> getLock(name, true)).collect(Collectors.toList());
+		centralLock.lock();
+		try {
+			validateMapsExists(maps);
+			return Arrays.stream(maps).map(name -> getLock(name, true)).collect(Collectors.toList());
+		} finally {
+			centralLock.unlock();
+		}
 	}
 	
     private List<Lock> collectWriteLocks(String... maps) {
-    	return Arrays.stream(maps).map(name -> getLock(name, false)).collect(Collectors.toList());
+    	centralLock.lock();
+		try {
+			validateMapsExists(maps);
+			return Arrays.stream(maps).map(name -> getLock(name, false)).collect(Collectors.toList());
+		} finally {
+			centralLock.unlock();
+		}
 	}
     
     private Lock getLock(String name, boolean readLock) {
